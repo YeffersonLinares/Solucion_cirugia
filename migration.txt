@@ -1,0 +1,14 @@
+Ciudad
+Departamento
+
+1 Departamento tiene n ciudades
+
+Departamento > ciudades
+
+
+//-----------------------------------------------------------------------------------
+// Solución cirugia
+//-----------------------------------------------------------------------------------
+
+Medico > Tipo_cirugia > Paciente > Sitio > Medicamentos > Materiales > cirugia > Ciudad_medico >
+cirugia_materiales > cirugia_medicamentos
